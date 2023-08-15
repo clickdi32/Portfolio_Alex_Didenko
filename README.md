@@ -1,8 +1,8 @@
 # Project Website Portfolia Alex Didenko
-I used only:
-Html 5  
-Css
-and also used in projects Bootstrap and Sass
+### I used only:
+ * Html 5  
+ * Css
+ * and also used in projects Bootstrap and Sass
 
 ## Portfolio:
 ### Welcome to the portfolio site! I am here to present you my projects.
