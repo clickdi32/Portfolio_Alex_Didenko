@@ -40,7 +40,7 @@ link to download website: https://drive.google.com/uc?export=download&confirm=no
 ## Contact Us
 ### You can always leave me a message or contact me, thank you very much for your time on my project
 
-my number:051-505-1995
-my mail: alexdidenko32@gmail.com
-my adress: atsmaut 72, kiryat ata
+* my number:051-505-1995
+* my mail: alexdidenko32@gmail.com
+* my adress: atsmaut 72, kiryat ata
 		
